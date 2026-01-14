@@ -1,0 +1,2 @@
+# Restaurant-Market-Customer-Insights-Analysis-Zomato-Python-
+This project focuses on analyzing restaurant data from Zomato to derive actionable market and customer insights. Using Python, the project involves data cleaning, exploratory data analysis (EDA), and visualization to understand restaurant distribution, popular cuisines, customer preferences, cost patterns, and ratings trends across cities.
